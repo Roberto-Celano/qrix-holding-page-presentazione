@@ -1,4 +1,4 @@
-# 🚀 Qrix Holding Page
+# 🚀 QReator Holding Page
 
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
@@ -10,7 +10,7 @@
 
 ## 📄 Descrizione
 
-Holding page ufficiale per il progetto **Qrix**.  
+Holding page ufficiale per il progetto **QReator**.  
 Pagina "sito in costruzione" realizzata con HTML5, PHP8, CSS3 e best practices SEO.  
 Include ottimizzazione per dispositivi mobili, file `.htaccess` per sicurezza base, gestione favicon completa e robots.txt.
 
@@ -43,8 +43,8 @@ Include ottimizzazione per dispositivi mobili, file `.htaccess` per sicurezza ba
 1. Clona il repository:
 
 ```bash
-git clone https://github.com/Roberto-Celano/qrix-holding-page-presentazione.git
-cd qrix-holding-page-presentazione
+git clone https://github.com/Roberto-Celano/qreator-holding-page-presentazione.git
+cd qreator-holding-page-presentazione
 ```
 2. Avvia un server locale (es. tramite Laragon, XAMPP, MAMP) e naviga su **index.php**.
 
